@@ -1,0 +1,12 @@
+PÁGINA PÓS-COMPRA — 900 REELS DE VIAGEM
+
+1. Extraia o ZIP e mantenha index.html e a pasta assets juntos.
+2. Para visualizar, abra index.html no navegador.
+3. Para colocar no ar, publique index.html e a pasta assets na sua hospedagem.
+4. Configure a URL publicada como destino de pós-compra/página de obrigado na plataforma de checkout, conforme as opções disponíveis na sua conta. O ZIP não faz esse redirecionamento sozinho.
+
+Esta página é um guia de orientação pós-compra, sem cobrança ou oferta adicional. Não contém os arquivos TXT do produto: entregue-os pelo fluxo de acesso configurado no seu checkout.
+
+Inclui cinco capturas fornecidas, ampliação das imagens e instruções dos três modos de download. A página foi desenhada para celular e fica centralizada em telas maiores.
+
+Não foi incluído disparo automático de Purchase: abrir ou atualizar uma página pública não confirma uma compra. Mantenha a confirmação de compra na integração do checkout.
